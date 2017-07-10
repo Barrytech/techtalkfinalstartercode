@@ -25,5 +25,8 @@ $( document ).ready(function() {
     })
     }
 );
+$("#num1").click(function(){
+ $("body").append("https://www.google.com/")
+})
 
 

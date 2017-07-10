@@ -5,7 +5,57 @@ h1{
 #p1{
     color: red;
 }
-body{ 
+//{ 
    
     background-image: url("https://www.capgemini.com/sites/default/files/styles/cap_image_492x278/public/resource/image/The_Changing_Dynamics_of_the_Global_High_Tech_Industry_____An_Analysis_of_Key_Segments_and_Trends.jpg?itok=NDmn5H-u")
 }
+#paysage{
+    background-color: yellow;
+}
+    
+}
+.row{
+background-color: Turquoise;
+border: solid;
+}
+#num1{
+    background-color:SteelBlue  ;
+    border: solid;
+}
+
+#num2 {
+    background-color:red ;
+    border: solid;
+}
+
+#num3 {
+    background-color:LightYellow ;
+    border: solid;
+}
+#num4 {
+    background-color:LightYellow ;
+    border: solid;
+}
+#num5{
+    //background-color:LightYellow ;
+    border: solid;
+}
+#num6 {
+    //background-color:LightYellow ;
+    border: solid;
+}
+#num7 {
+    //background-color:LightYellow ;
+    border: solid;
+}
+#num8{
+    background-color:LightYellow ;
+    border: solid;
+}
+#num9 {
+    background-color:LightYellow ;
+    border: solid;
+}
+
+
+
